@@ -8,9 +8,4 @@ const nextConfig = {
   },
 }
 
-// Cloudflare Pages 适配器
-const withNextOnPages = require('@cloudflare/next-on-pages')({})
-
-module.exports = process.env.CF_PAGES
-  ? withNextOnPages(nextConfig)
-  : nextConfig
+module.exports = nextConfig
