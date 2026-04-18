@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FollowMe</string>
+    <string name="title_activity_main">FollowMe</string>
+    <string name="package_name">com.followme.app</string>
+    <string name="custom_url_scheme">com.followme.app</string>
+</resources>
