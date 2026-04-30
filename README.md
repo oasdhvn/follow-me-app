@@ -36,7 +36,7 @@
 | React | 18 | UI 组件库 |
 | TypeScript | 5.3 | 类型安全 |
 | Tailwind CSS | 3.3 | 原子化样式 |
-| 智脑 AI（ZAI） | latest | AI 攻略生成后端 |
+| AI（ZAI） | latest | AI 攻略生成后端 |
 | Lucide React | latest | 图标库 |
 | Vercel | — | 线上部署平台 |
 | Cloudflare Pages | — | 备选部署平台（开发中） |
